@@ -1,0 +1,16 @@
+PODS:
+  - FigmaGen (1.0.0)
+
+DEPENDENCIES:
+  - FigmaGen (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FigmaGen
+
+SPEC CHECKSUMS:
+  FigmaGen: 92645f7e4362261825c151dee0d714061fb134f0
+
+PODFILE CHECKSUM: 14d78cef65175b89fd93682ebccce0b3fd9c4c11
+
+COCOAPODS: 1.8.4
